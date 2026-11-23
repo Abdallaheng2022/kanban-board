@@ -9,11 +9,7 @@
 ![dnd-kit](https://img.shields.io/badge/dnd--kit-0.5-4B5563)
 
 ## 🎬 Demo
-
-![Kanban board demo: creating a board, adding and editing tasks, drag and drop](docs/demo.gif)
-
 ▶️ **Full walkthrough with voice-over (Egyptian Arabic, 2 min).** Press play below to watch it with sound:
-
 https://github.com/user-attachments/assets/796c4905-491d-4511-afaf-38150a973774
 
 

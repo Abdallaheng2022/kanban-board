@@ -8,12 +8,28 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![dnd-kit](https://img.shields.io/badge/dnd--kit-0.5-4B5563)
 
-![Kanban board screenshot](docs/screenshot.png)
+## 🎬 Demo
+
+![Kanban board demo: creating a board, adding and editing tasks, drag and drop](docs/demo.gif)
+
+▶️ **Full walkthrough with voice-over (Egyptian Arabic, 2 min).** Press play below to watch it with sound:
+
+<!--
+  HOW TO SHOW THE FULL VIDEO WITH SOUND (one time, about 1 minute):
+  1. Open this README on GitHub and click the ✏️ (Edit) button.
+  2. Drag the file "Kanban_Board_Demo_EG.mp4" from your computer and drop it on the line below this comment.
+  3. GitHub uploads it and inserts a link like https://github.com/user-attachments/assets/xxxxxxxx
+     Keep that link alone on its own line: GitHub turns it into a video player right inside the README.
+  4. Click "Commit changes".
+  (A video file committed inside the repository will NOT play in the README; it must be uploaded this way.)
+-->
+
 
 ---
 
 ## Table of Contents
 
+- [Demo](#-demo)
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -148,7 +164,8 @@ Then open the URL printed in the terminal (usually <http://localhost:5173>).
 ```text
 kanban-board/
 ├── docs/
-│   └── screenshot.png          # Screenshot used in this README
+│   ├── demo.gif                # Animated demo shown at the top of this README
+│   └── screenshot.png          # Static screenshot
 ├── public/                     # Static files served as-is at the site root
 │   ├── favicon.svg             # Browser tab icon
 │   └── icons.svg               # SVG sprite (from the Vite template)
